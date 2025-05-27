@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, I'm a passionate front-end developer currently learning golang and svelte
+Hello, I'm a passionate fullstack developer currently learning golang and svelte
 
 ## 🌐 Socials:
 
