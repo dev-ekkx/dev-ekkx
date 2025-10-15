@@ -4,7 +4,7 @@ Hello, I'm a passionate fullstack developer currently learning golang and svelte
 
 ## 🌐 Socials:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kpendo)
+.![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kpendo)
 
 # 💻 Tech Stack:
 
