@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-Hello, I'm a passionate fullstack developer currently learning golang and svelte
-
+Results-driven Software Engineer specializing in full-stack development. Deep expertise in modern frontend frameworks (Angular, React, SvelteKit), backend services with Go (Gin), and deploying on AWS.
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kpendo)
