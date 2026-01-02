@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"> Results-driven Software Engineer specializing in full-stack development. Deep expertise in modern frontend frameworks (Angular, React, SvelteKit), backend services with Go (Gin), and deploying on AWS. </p>
+<p align="left"> I am a Software Engineer specializing in full-stack development. Deep expertise in modern frontend frameworks (Angular, React, Svelte), backend services with Go, and deploying on AWS. </p>
 
 ###
 
