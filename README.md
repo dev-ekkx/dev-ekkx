@@ -101,7 +101,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=dev-ekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dev-ekkx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
+![]([https://github-readme-stats.vercel.app](https://github-readme-stats-blush-seven-18.vercel.app/)/api/top-langs/?username=dev-ekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
