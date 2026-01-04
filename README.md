@@ -101,9 +101,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=devekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](github-readme-stat-one-kappa.vercel.app/api?username=devekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devekkx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-blush-seven-18.vercel.app/api/top-langs/?username=devekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
+![](github-readme-stat-one-kappa.vercel.app/api/top-langs/?username=devekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
