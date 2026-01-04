@@ -12,7 +12,7 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kpendo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-komla-kpendo)
 
 ###
 
@@ -109,7 +109,10 @@
 
 -----
 
-[![](https://visitcount.itsvg.in/api?id=devekkx&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-ekkx.devekkx&"  />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-ekkx/dev-ekkx/output/github-snake-dark.svg" />
