@@ -99,9 +99,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=dev-ekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-ekkx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-blush-seven-18.vercel.app/api/top-langs/?username=dev-ekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=devekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devekkx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-blush-seven-18.vercel.app/api/top-langs/?username=devekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
@@ -109,7 +109,7 @@
 
 -----
 
-[![](https://visitcount.itsvg.in/api?id=dev-ekkx&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devekkx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-ekkx/dev-ekkx/output/github-snake-dark.svg" />
