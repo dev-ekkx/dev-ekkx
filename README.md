@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-komla-kpendo)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-ekkx.devekkx&"  />
 
-
 ###
 
 <h3 align="left">💻 Language and tools 🛠</h3>
@@ -97,7 +96,7 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
+ <h3 align="left">📊 GitHub Stats: </h3>
 ###
 
 <!-- GRS (Light Mode) -->
