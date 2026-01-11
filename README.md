@@ -98,6 +98,8 @@
 
 ###
 
+# 📊 GitHub Stats:
+
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/devekkx#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
@@ -142,10 +144,6 @@
   </table>
 </a>
 
-###
-
-
-# 📊 GitHub Stats:
 
 ![](github-readme-stat-one-kappa.vercel.app/api?username=devekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devekkx&theme=dark&hide_border=false)<br/>
