@@ -97,9 +97,8 @@
 </div>
 
 ###
-###
-
 # 📊 GitHub Stats:
+###
 
 <!-- GRS (Light Mode) -->
 <a href="https://github.com/devekkx#gh-light-mode-only">
@@ -145,10 +144,30 @@
   </table>
 </a>
 
+<!-- Streak stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/devekkx#gh-light-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=devekkx&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000&disable_animations=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
 
-![](github-readme-stat-one-kappa.vercel.app/api?username=devekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devekkx&theme=dark&hide_border=false)<br/>
-![](github-readme-stat-one-kappa.vercel.app/api/top-langs/?username=devekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
+
+<!-- Streak stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/devekkx#gh-dark-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=devekkx&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+
+
+#![](github-readme-stat-one-kappa.vercel.app/api?username=devekkx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+#![](https://nirzak-streak-stats.vercel.app/?user=devekkx&theme=dark&hide_border=false)<br/>
+#![](github-readme-stat-one-kappa.vercel.app/api/top-langs/?username=devekkx&theme=dark&hide_border=false&include_all_commits=truee&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
