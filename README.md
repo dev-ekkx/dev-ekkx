@@ -185,8 +185,6 @@
   </a>
 </div>
 
-![Alt](https://repobeats.axiom.co/api/embed/a6dad8e487dc2484bacaabf6a3bd686302555288.svg "Repobeats analytics image")
-
 -----
 
 <picture>
