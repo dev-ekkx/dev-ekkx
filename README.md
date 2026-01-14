@@ -160,7 +160,7 @@
 <div align="center">
   <a href="https://github.com/devekkx#gh-dark-mode-only">
     <img
-       src="https://github-readme-stat-one-kappa.vercel.app/?user=devekkx&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
+       src="https://github-readme-stat-one-kappa.vercel.app/?username=devekkx&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
        alt="My GitHub streak stats"
      />
   </a>
