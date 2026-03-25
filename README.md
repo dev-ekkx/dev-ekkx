@@ -140,7 +140,7 @@
         <img
           src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=devekkx&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=20&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=false#gh-dark-mode-only"
           alt="My Language stats"
-          width="280"
+          width="100%"
         />
       </td>
     </tr>
