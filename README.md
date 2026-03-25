@@ -118,7 +118,7 @@
           <img
             src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=devekkx&layout=pie&hide_border=true&langs_count=20&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=false#gh-light-mode-only"
             alt="My Language stats"
-            width="280"
+            width="100%"
           />
       </td>
     </tr>
